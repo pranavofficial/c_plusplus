@@ -15,3 +15,14 @@ backspace: erases the last number or operation enetered
 +/-: converts positive number into a negative, and vice versa
 .: decimal symbol, used to enter the decimal part of a number
 =: computes and displays the result of the arithmetic operation
+
+
+WORDLE--> An attempt to recreate the classic New York Times of "Wordle"
+
+Pulled words from the official NYT Wordle database
+
+Concepts used:
+Data Structures
+Reading and Handling Data
+Memory Optimization
+Input Handling
